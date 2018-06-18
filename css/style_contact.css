@@ -1,9 +1,8 @@
-.content_contact{
-	margin: 0;
-	padding-top:2.5%;
-	background: -webkit-linear-gradient(top, white 98%, #E8E6E7);
+.contact{
+	
+	padding-top:3.5%;
 	padding-bottom: 5%;
-	width: 80%;
+
 	
 }
 .form{
@@ -11,7 +10,7 @@
 	justify-content: space-between;
 	width: 60%
 }
-.content_contact h2{
+.contact h2{
 	color:black;
 	font-size: 28px;
 	border-bottom: 1px solid grey;
@@ -48,7 +47,7 @@
 	right: -200px;
 }
 iframe {
-	width: 100%;
+	width: 98%;
 }
 .img_slid{
 	float: left;
@@ -58,4 +57,13 @@ iframe {
 .img_slid img {
 	width: 100%;
 	margin-top: 15px;
+}
+.sidebarRight {
+	border-top-left-radius: 10px;
+}
+.content {
+	border-top-right-radius:10px; 
+}
+.main {
+	margin-top: -100px;
 }

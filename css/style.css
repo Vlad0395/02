@@ -103,8 +103,6 @@ h2 {
 	padding: 5px  15px;
 	border-radius: 3px;
 }
-
-
 .gallery_slider {
 	display: flex;
 	justify-content: center;
@@ -128,9 +126,7 @@ h2 {
 }
 aside li {
 	list-style-image: url(../img/templatemo_list_01.png);
-	
 	padding: 5px 10px;
-
 }
 .main{
 	width: 70%;
@@ -205,7 +201,7 @@ footer {
 	width: 330px;
 }
 .nav_footer{
-	width: 14.5%;
+	width: 20%;
 
 }
 
@@ -222,6 +218,7 @@ footer {
 .nav_footer a{
 	text-decoration: none;
 	color: #967B89;
+	font-size: 14px;
 }
 .nav_footer h2,
 .about h2{

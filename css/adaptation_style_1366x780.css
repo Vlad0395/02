@@ -1,0 +1,39 @@
+@media screen and (max-width: 1366px) {
+
+	.width_section,
+	.gallery_slider,
+	.main
+	 {
+		width:910px;
+		
+	}
+	.footer{
+		width: 920px;
+	}
+	.sidebarRight
+	{
+		width: 260px;
+	}
+	.img_slider{
+		margin-top: -100px;
+	}
+	.product_img img {
+	width: 150%;
+	position: relative;
+	top: -5px;
+	left: -100px;
+	}
+	.form {
+		width: 610px;
+	}
+	.form_send{{
+		width: 300px;
+	}
+	.contacts {
+	width: 260px;
+	margin-left: 130px;
+	}
+	.footer a{
+		font-size: 2px;
+	}
+}
