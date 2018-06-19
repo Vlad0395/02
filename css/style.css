@@ -140,7 +140,7 @@ aside li {
 	padding-top: 15%;
 	margin-left: 15px;
 	background: url(../img/sidebar_header_bg.png) no-repeat  0 70px;
-	padding-bottom: 10px;
+	padding-bottom: 15px;
 	font-size: 24px;
 	color: black;
 }
@@ -230,8 +230,6 @@ footer {
 	background: -webkit-linear-gradient(top, white 98%, #E8E6E7);
 	padding-bottom: 40px;
 	border-bottom-right-radius: 10px;
-
-
 }
 .prod_wrapper{
 	width: 100%;
@@ -254,8 +252,8 @@ footer {
 .product a {
 	text-decoration: none;
 	color: #B0A8A3;
-	background: url(../img/cart.png) no-repeat right;
-	padding-right: 30px;
+/*	background: url(../img/cart.png) no-repeat right;
+*/	padding-right: 30px;
 }
 .subMenu_block{ 
 	position: relative;
@@ -287,4 +285,7 @@ footer {
 }
 a:hover {
 	color: black;
+}
+.size_img{
+		width:150px;
 }
